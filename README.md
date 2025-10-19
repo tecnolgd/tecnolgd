@@ -1,4 +1,4 @@
-# Hello 👋🏻, greetings from tecnolgd !
+# Hello 👋🏻, greetings from ***tecnolgd***!
 
 ## About me
 * Interested in Technology.
