@@ -5,7 +5,10 @@
 * Currently learning new skills and chieseling old ones through projects and research
 * ~ 7 months experience in Github.
 
-## Tech Stack 
+## What i am working on
+
+
+## Tech stuff i use
 * C++
 * HTML5
 * CSS
