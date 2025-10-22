@@ -1,4 +1,4 @@
-# Hello 👋🏻, greetings from ***tecnolgd***!
+<h1 align="justify-items:center";>Hello 👋🏻, greetings from tecnolgd</h1>
 
 ## About me
 * Interested in Technology.
