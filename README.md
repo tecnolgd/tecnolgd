@@ -6,7 +6,8 @@
 * ~ 7 months experience in Github.
 
 ## What i am working on
-
+* Data structures and low level stuff.
+* A bit of deployment
 
 ## Tech stuff i use
 * C++
