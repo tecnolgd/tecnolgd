@@ -10,10 +10,10 @@
 * A bit of deployment
 
 ## Tech stuff i use
-* C++
-* HTML5
-* CSS
-* GIT
+* **C++**
+* **HTML5**
+* **CSS**
+* **GIT** 
 
 
 ## Check out my Portfolio
