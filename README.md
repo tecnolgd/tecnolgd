@@ -25,13 +25,13 @@
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ## Commit Stats
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tecnolgd&theme=radical)
 
  
 
-## Check out my Portfolio
- ***link***
+## Portfolio
+🌐 [Check out my portfolio](your-portfolio-link-here)
+
 
 ## For queries,
 
