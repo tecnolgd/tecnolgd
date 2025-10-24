@@ -14,16 +14,18 @@
 * Building Personal projects to put my learnt skills to execution.
 * Exploring tech sphere to find my niche.
 
-## Tech stuff i use
-* **C++**
-* **HTML5**
-* **CSS**
-* **GIT** 
-## Tools i use
-* **GITHUB**
-* **VSCODE**
-* **GITBASH**
+## Tech stack
+### Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+## Version control & Tools
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+📊 GitHub Stats
+![tecnolgd stats](https://github-readme-stats.vercel.app/api?username=tecnolgd&show_icons=true&theme=radical)
 
 
 ## Check out my Portfolio
