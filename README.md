@@ -14,6 +14,11 @@
 * **HTML5**
 * **CSS**
 * **GIT** 
+## Tools i use
+* **GITHUB**
+* **VSCODE**
+* **GITBASH**
+
 
 
 ## Check out my Portfolio
