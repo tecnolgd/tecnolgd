@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋🏻, greetings from tecnolgd</h1>
+<h1 align="center">Hello 👋🏻, Github user, greetings from tecnolgd</h1>
 
 ### tecnolgd Status
 * Learning and understanding tech fundamentals.
