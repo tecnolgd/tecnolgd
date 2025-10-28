@@ -20,6 +20,5 @@
 #### Portfolio
 🌐 [Check out my portfolio](your-portfolio-link-here)
 
-
 ### For queries,
 
