@@ -6,7 +6,6 @@
 ### Present work
 * Mostly private.
 * Projects involving fundamental concepts like Data Structures.
-* Light work with booming tech.
 
 ### Tech stack
 #### Languages
