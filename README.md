@@ -20,6 +20,6 @@
 #### Portfolio
 🌐 [Check out my portfolio](your-portfolio-link-here)
 
-### Connect with tecnolgd
+####  Connect with tecnolgd
 
 
