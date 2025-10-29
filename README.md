@@ -2,6 +2,7 @@
 
 ### tecnolgd Status
 * Learning and understanding tech fundamentals.
+* ![GitHub followers](https://img.shields.io/github/followers/tecnolgd?style=social)
 
 ### Present work
 * Mostly private.
