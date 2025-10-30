@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋🏻, Github user, greetings from tecnolgd</h1>
 
-![GitHub followers]<div>(https://img.shields.io/github/followers/tecnolgd?style=social)</div>
+![GitHub followers](https://img.shields.io/github/followers/tecnolgd?style=social)
 
 ### tecnolgd Status
 * Learning and understanding tech fundamentals.
 
 
 ### Present work
-* Mostly private.
-* Projects involving fundamental concepts like Data Structures.
+* Mostly **private**.
+* Projects involving fundamental concepts like **Data Structures**.
 
 ### Tech stack
 #### Languages
