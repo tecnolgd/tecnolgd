@@ -5,7 +5,6 @@
 ### tecnolgd Status
 * Learning and understanding tech fundamentals.
 
-
 ### Present work
 * Mostly **private**.
 * Projects involving fundamental concepts like **Data Structures**.
