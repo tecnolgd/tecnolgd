@@ -19,9 +19,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-#### Portfolio
+### Portfolio
 🌐 [Check out my portfolio](your-portfolio-link-here)
 
-####  Connect with tecnolgd
+###  Connect with tecnolgd
 
 
