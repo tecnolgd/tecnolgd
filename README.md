@@ -6,7 +6,7 @@
 ### Present work
 * Mostly **private**.
 * Projects involving fundamental concepts like **Data Structures**.
-
+---
 ### Tech stack
 #### Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
@@ -16,7 +16,7 @@
 #### Version control & Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
-
+---
 ### Portfolio
 🌐 [Check out my portfolio](your-portfolio-link-here)
 
