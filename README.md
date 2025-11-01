@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋🏻, Github user, greetings from tecnolgd.
 
-### tecnolgd Status
+### Current Focus
 * Learning and understanding tech fundamentals.
 
 ### Present work
