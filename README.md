@@ -2,11 +2,13 @@
 
 ### Current Focus
 * Learning and understanding tech fundamentals.
+* Exploring technologies.
 
 ### Present work
 * Mostly **private**.
 * Projects involving fundamental concepts like **Data Structures**.
----
+
+
 ### Tech stack
 #### Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
