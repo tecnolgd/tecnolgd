@@ -1,6 +1,4 @@
-<h1 align="center">Hello 👋🏻, Github user, greetings from tecnolgd</h1>
-
-![GitHub followers](https://img.shields.io/github/followers/tecnolgd?style=social)
+<h1 align="center">Hello 👋🏻, Github user, greetings from tecnolgd.
 
 ### tecnolgd Status
 * Learning and understanding tech fundamentals.
