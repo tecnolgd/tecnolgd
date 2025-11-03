@@ -4,7 +4,7 @@
 * Learning and understanding tech fundamentals.
 
 ### Present work
-* Mostly private.
+* Largely private.
 * Projects involving fundamental concepts like Data Structures.
 * Light work with booming tech.
 
