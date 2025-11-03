@@ -2,7 +2,7 @@
 
 ### Current Focus
 * Learning and understanding tech fundamentals.
-* Exploring technologies.
+* Exploring niche technologies.
 
 ### Present work
 * Mostly **private**.
