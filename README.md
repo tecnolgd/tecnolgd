@@ -1,12 +1,11 @@
 <h1 align="center">Hello 👋🏻, Github user, greetings from tecnolgd.
 
 ### Current Focus
-* Learning and understanding tech fundamentals.
-* Exploring niche technologies.
+* Learning and building.
 
 ### Present work
 * Mostly **private**.
-* Projects involving fundamental concepts like **Data Structures**.
+* Projects involving fundamental concepts like **Data Structures**,**WEB Dev**.
 
 ### Tech stack
 #### Languages
