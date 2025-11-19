@@ -5,7 +5,7 @@
 
 ### Present work
 * Mostly **private**.
-* Projects involving fundamental concepts like **Data Structures**,**WEB Dev**.
+* Projects involving fundamental concepts like **Data Structures**, **Web Development**.
 
 ### Tech stack
 #### Languages
