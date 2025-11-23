@@ -18,7 +18,7 @@
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ### My work
-[ **Blog**](blog-link)
+[ **Blog**](https://tecnolgd.github.io/blog-tecnolgd/)
    
 [**Portfolio**](portfolio-link)
 
