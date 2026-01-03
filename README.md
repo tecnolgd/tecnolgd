@@ -1,11 +1,11 @@
-<h1 align="center">Hello 👋🏻, Github user, greetings from tecnolgd.
+<h1 align="center">Hello Github user, greetings from tecnolgd.
 
 ### Current Focus
 * Learning and building.
 
 ### Present work
 * Mostly **private**.
-* Projects involving base techs like **Data Structures**, **Web Development**.
+* Projects involving fundamentals of development.
 
 ### Tech stack
 #### Languages
@@ -23,7 +23,3 @@
 [**Portfolio**](portfolio-link)
 
 ###  Connect with tecnolgd
-
-
-
-
