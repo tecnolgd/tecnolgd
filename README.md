@@ -1,10 +1,10 @@
 <h1 align="center">Learning and Building</h1>
 
-### Focus areas
+### Currently working on
 
-* **Data Structures & Algorithms** — efficiency is the foundation.
-* **Web Development** — visuals talk more than text ever will.
-* **Backend Architecture** — where real work happens.
+* **Data Structures & Algorithms**
+* **Developer tools and Backend architecture**
+* Web development(occasionaly)
 
 ### Tech
 
