@@ -4,7 +4,7 @@
 
 * **Data Structures & Algorithms**
 * **Developer tools and Backend architecture**
-* Web development(occasionaly)
+* **Web development**(occasionaly)
 
 ### Tech
 
