@@ -20,3 +20,5 @@
 ### Elsewhere
 
 [**Blog**](https://tecnolgd.github.io/blog-tecnolgd/)
+
+[**Discord**](https://discord.gg1475417150465380424/)
