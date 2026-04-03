@@ -1,15 +1,16 @@
 <h1 align="center">Learning and Building</h1>
 
-### Focus areas
+### Currently working on
 
-* **Data Structures & Algorithms** — efficiency is the foundation.
-* **Web Development** — visuals talk more than text ever will.
-* **Backend Architecture** — where real work happens.
+* **Data Structures & Algorithms**
+* **Developer tools and Backend architecture**
+* **Web development**(occasionaly)
 
 ### Tech
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
