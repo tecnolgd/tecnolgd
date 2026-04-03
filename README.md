@@ -19,6 +19,6 @@
 
 ### Elsewhere
 
-[**Blog**](https://tecnolgd.github.io/blog-tecnolgd/)
+[**Blog**](https://tecnolgd.github.io/blog-tecnolgd)
 
-[**Discord**](https://discord.com/tecnolgd/1475417150465380424/)
+[**Discord**](https://discord.com/tecnolgd/1475417150465380424)
