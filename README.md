@@ -1,4 +1,4 @@
-<h1 align="center">Learning and Building</h1>
+<h1 align="center">Learning & Building</h1>
 
 ### Currently working on
 
