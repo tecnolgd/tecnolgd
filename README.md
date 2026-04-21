@@ -1,10 +1,16 @@
 <h1 align="center">Learning & Building</h1>
 
-### Currently working on
+### Interests     
+- ***Data Structures and algorithms***
+- ***Terminal tools***
+- ***High-Performance systems***
+- Occasional ***Web Development***(via blog writing)
 
-* **Data Structures & Algorithms**
-* **Developer tools and Backend architecture**
-* **Web development**(occasionaly)
+
+### Projects that I am actively working on
+
+- [**TermiFlow**](https://github.com/tecnolgd/TermiFlow)
+- [**velocache**](https://github.com/tecnolgd/velocache)
 
 ### Tech
 
