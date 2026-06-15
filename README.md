@@ -27,4 +27,4 @@
 ### Elsewhere
 
 [![Blog](https://shields.io/badge/Blog-21261d?style=flat-square&logo=github-pages&logoColor=white)](https://tecnolgd.github.io/blog-tecnolgd/) 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/jSedJ8ya)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1475417150465380424)
