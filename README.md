@@ -1,11 +1,11 @@
 <h1 align="center">Learning & Building</h1>
 
-### Interests  
+#### Core Focus  
 
-- ***Data Structures and algorithms***
-- ***Terminal tools***
-- ***High-Performance systems***
-- Occasional ***Web Development***(via blog writing)
+- Data Structures and algorithms
+- Terminal tools
+- High-Performance systems
+- Occasional Web Development (via blog writing)
 
 ### Projects that I am actively working on
 
@@ -13,18 +13,14 @@
 - [**velocache**](https://github.com/tecnolgd/velocache)
 - [**repoScanner**](https://github.com/tecnolgd/repoScanner)
 
-### Tech
+### Environment & Tooling
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+- **Languages:** C++17, ISO C, Python 3.x
+- **Platforms:** Linux, Windows
+- **Foundations:** Data Structures & Algorithms, High-Performance Systems, Modular architecture
+- **Utilities:** GNU Make Build Systems, Git, VSCode
 
 ### Elsewhere
 
-[![Blog](https://shields.io/badge/Blog-21261d?style=flat-square&logo=github-pages&logoColor=white)](https://tecnolgd.github.io/blog-tecnolgd/) 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1475417150465380424)
+- **Telemetry:** [Blog](https://tecnolgd.github.io/blog-tecnolgd)
+- **Communications:** [Discord](https://discord.com/users/1475417150465380424)
