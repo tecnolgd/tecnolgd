@@ -1,6 +1,6 @@
 <h1 align="center">Learning & Building</h1>
 
-#### Core Focus  
+### Core Focus  
 
 - Data Structures and algorithms
 - Terminal tools
