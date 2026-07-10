@@ -5,7 +5,7 @@
 - Data Structures and algorithms
 - Terminal tools
 - High-Performance systems
-- Occasional Web Development (via blog writing)
+- Markdown-based doc writing
 
 ### Projects that I am actively working on
 
