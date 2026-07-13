@@ -23,5 +23,5 @@
 
 ### Elsewhere
 
-- **Telemetry:** [Blog](https://tecnolgd.github.io/blog-tecnolgd) (*Undergoing Markdown porting*)
+- **Telemetry:** [Blog](https://tecnolgd.github.io/blog-tecnolgd)
 - **Communications:** [Discord](https://discord.com/users/1475417150465380424)
