@@ -24,4 +24,4 @@
 ### Elsewhere
 
 - **Telemetry:** [Blog](https://tecnolgd.github.io/blog-tecnolgd)
-- **Communications:** [Discord](https://discord.com/users/1475417150465380424)
+- **Communications:** [Discord](https://discord.com/users/1475417150465380424) | [Email](mailto:tecnolgd@proton.me)
