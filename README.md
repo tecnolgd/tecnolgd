@@ -16,7 +16,7 @@
 
 ### Environment & Tooling
 
-- **Languages:** C++17, ISO C, Python 3.x
+- **Languages:** C++17, ISO C, Python 3.x, Markdown
 - **Platforms:** Linux, Windows
 - **Foundations:** Data Structures & Algorithms, High-Performance Systems, Modular architecture
 - **Utilities:** GNU Make Build Systems, Git, VSCode
