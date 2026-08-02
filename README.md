@@ -12,6 +12,7 @@
 - [**TermiFlow**](https://github.com/tecnolgd/TermiFlow)
 - [**velocache**](https://github.com/tecnolgd/velocache)
 - [**repoScanner**](https://github.com/tecnolgd/repoScanner)
+- [**libcvault**](https://github.com/tecnolgd/libcvault)
 
 ### Environment & Tooling
 
