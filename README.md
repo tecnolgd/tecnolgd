@@ -1,4 +1,4 @@
-<h1 align="center">Learning & Building</h1>
+<h1 align="center">tecnolgd</h1>
 
 ### Core Focus  
 - Data Structures and algorithms
@@ -6,7 +6,7 @@
 - High-Performance systems
 - Markdown-based doc writing
 
-### Projects that I am actively working on
+### Notable Projects
 - [**TermiFlow**](https://github.com/tecnolgd/TermiFlow)
 - [**velocache**](https://github.com/tecnolgd/velocache)
 - [**repoScanner**](https://github.com/tecnolgd/repoScanner)
@@ -16,7 +16,7 @@
 - **Languages:** C++17, ISO C, Python 3.x, Markdown
 - **Platforms:** Linux, Windows
 - **Foundations:** Data Structures & Algorithms, High-Performance Systems, Modular architecture
-- **Utilities:** GNU Make Build Systems, Git, VSCode
+- **Utilities:** GNU Make Build Systems, Git, VSCode, NeoVim
 
 ### Elsewhere
 - **Telemetry:** [Blog](https://tecnolgd.github.io/blog-tecnolgd)
