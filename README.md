@@ -1,10 +1,16 @@
 <h1 align="center">tecnolgd</h1>
-
+<div align = "center">
+  <a href = "https://tecnolgd.github.io/blog-tecnolgd">Blog</a> •
+  <a href = "mailto:tecnolgd@proton.me">Email</a> •
+  <a href = "https://discord.com/users/1475417150465380424">Discord</a> •
+  <a href = "https://tecnolgd.github.io/portfolio-tecnolgd">Portfolio</a>
+</div>
+  
 ### Core Focus  
-- Data Structures and algorithms
+- Data Structures & algorithms
 - Terminal tools
 - High-Performance systems
-- Markdown-based doc writing
+- Markdown-based Documentation
 
 ### Notable Projects
 - [**TermiFlow**](https://github.com/tecnolgd/TermiFlow)
@@ -16,8 +22,4 @@
 - **Languages:** C++17, ISO C, Python 3.x, Markdown
 - **Platforms:** Linux, Windows
 - **Foundations:** Data Structures & Algorithms, High-Performance Systems, Modular architecture
-- **Utilities:** GNU Make Build Systems, Git, VSCode, NeoVim
-
-### Elsewhere
-- **Telemetry:** [Blog](https://tecnolgd.github.io/blog-tecnolgd)
-- **Communications:** [Discord](https://discord.com/users/1475417150465380424) | [Email](mailto:tecnolgd@proton.me)
+- **Utilities:** GNU Make Build Systems, Git, VSCode, Neovim
