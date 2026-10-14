@@ -7,7 +7,7 @@
 </div>
   
 ### Core Focus  
-- Data Structures & algorithms
+- Data Structures & Algorithms
 - Terminal tools
 - High-Performance systems
 - Markdown-based Documentation
