@@ -8,7 +8,7 @@
   
 ### Core Focus  
 - Terminal tools / Developer tools
-- High-Performance systems
+- High-Performance infrastructure & low-level systems
 - Markdown-based Documentation
 
 ### Notable Projects
@@ -20,5 +20,5 @@
 ### Environment & Tooling
 - **Languages:** C++17, ISO C, Python 3.x, Markdown
 - **Platforms:** Linux, Windows
-- **Foundations:** Data Structures & Algorithms, High-Performance Systems, Modular architecture
+- **Paradigms:** Modular architecture, Terminal-first, Minimal dependency s/w
 - **Utilities:** GNU Make Build Systems, Git, VSCode, Neovim
